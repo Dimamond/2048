@@ -1,2 +1,2 @@
 # 2048
-Task from courses on javaRush
+Task from courses on JavaRush
